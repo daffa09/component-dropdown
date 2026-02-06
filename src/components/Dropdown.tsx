@@ -89,7 +89,7 @@ export default function CustomSelect({
                 </li>
               ))
             ) : (
-              <li className="p-2 text-sm text-gray-400 text-center">Gak ketemu bro</li>
+              <li className="p-2 text-sm text-gray-400 text-center">Data not found</li>
             )}
           </ul>
         </div>
